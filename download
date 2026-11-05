@@ -1,0 +1,19 @@
+# Claude Code local config
+.claude/
+.playwright-mcp/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*~
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & temp
+*.log
+*.tmp
+node_modules/
